@@ -78,9 +78,10 @@
 }
 
 .open-post__photo img {
-  width: 120px;
+  width: 180px;
   height: 120px;
   border-radius: 10px;
+  object-fit: cover;
 }
 
 .open-post__heart-count {
