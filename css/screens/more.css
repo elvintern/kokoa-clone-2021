@@ -44,3 +44,19 @@
   font-size: 32px;
   color: white;
 }
+
+.more-suggestions__icon-image .fa-wifi {
+  font-size: 32px;
+  color: green;
+}
+
+.more-suggestions__icon:last-child div {
+  background-color: black;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
